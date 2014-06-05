@@ -1,5 +1,11 @@
+@import url(http://fonts.googleapis.com/css?family=Permanent+Marker|Marck+Script|Amatic+SC:400,700);
 $body-bg:  #ecf0f1;
+$font-family-sans-serif: 'Amatic SC', cursive;
 $navbar-default-bg: #c0392b;
 $navbar-default-link-color: #ecf0f1;
-$jumbotron-bg: #7f8c8d;
+$jumbotron-bg: #bdc3c7;
 @import 'bootstrap';
+
+.center {
+	text-align: center;
+}
